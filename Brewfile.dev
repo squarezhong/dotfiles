@@ -1,0 +1,11 @@
+# Brewfile.dev
+
+brew "neovim"
+brew "tmux"
+brew "ripgrep"
+brew "fd"
+brew "lazygit"
+brew "tree-sitter-cli"
+brew "chezmoi"
+
+cask "codex"
