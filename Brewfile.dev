@@ -11,6 +11,7 @@ brew "lazygit"
 brew "tree-sitter-cli"
 brew "smartmontools"
 brew "yazi"
+brew "ffmpeg"
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 
