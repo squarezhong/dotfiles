@@ -1,20 +1,5 @@
 # USAGE: brew bundle install
 
-brew "uv"
-brew "cmake"
-brew "zsh-autosuggestions"
-brew "zsh-syntax-highlighting"
-brew "fastfetch"
-brew "smartmontools"
-
-brew "neovim"
-brew "tmux"
-brew "ripgrep"
-brew "fd"
-brew "lazygit"
-brew "tree-sitter-cli"
-brew "chezmoi"
-
 # Mac App Store command-line interface
 brew "mas"
 mas "AdGuard Mini", id: 1440147259
@@ -36,9 +21,7 @@ cask "microsoft-excel"
 cask "microsoft-powerpoint"
 cask "telegram"
 cask "obsidian"
-cask "codex"
 cask "typora"
 cask "iina"
 cask "ths" # 同花顺
-cask "neteasemusic"
 cask "obs"

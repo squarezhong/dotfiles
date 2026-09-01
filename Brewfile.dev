@@ -1,11 +1,17 @@
 # Brewfile.dev
 
+brew "uv"
+brew "cmake"
+brew "fastfetch"
 brew "neovim"
 brew "tmux"
 brew "ripgrep"
 brew "fd"
 brew "lazygit"
 brew "tree-sitter-cli"
-brew "chezmoi"
+brew "smartmontools"
+brew "yazi"
+brew "zsh-autosuggestions"
+brew "zsh-syntax-highlighting"
 
 cask "codex"
