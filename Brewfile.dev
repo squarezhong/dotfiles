@@ -14,5 +14,6 @@ brew "yazi"
 brew "ffmpeg"
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
+brew "gh"
 
 cask "codex"
